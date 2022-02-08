@@ -1,6 +1,6 @@
 {
   "publishedAt": "23rd Apr 2021",
-  "title": "test1",
-  "content": "hello",
-  "featuredImage": null
+  "title": "Hello World",
+  "content": "Testing blog\n\nsad,m,asd\n\nsdasd\n\n\n\nsd\n\na\n\ndsa",
+  "featuredImage": "/images/uploads/logo.png"
 }
