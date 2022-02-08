@@ -4,7 +4,6 @@
       <nuxt-link to="/">
         <img :src="logo" alt="Logo" />
       </nuxt-link>
-      St. Thomas Mar Thoma Church, Kallooppara
     </div>
 
     <nav class="nav ml-auto">
